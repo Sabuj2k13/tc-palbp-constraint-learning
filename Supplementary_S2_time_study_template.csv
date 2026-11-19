@@ -1,0 +1,6 @@
+operation_code,operator_id,date,start_hour,cycle_no,element_no,element_name,element_time_s,remark
+T,OP07,2026-12-01,09:00,1,1,pick and align gadget part,6.1,
+T,OP07,2026-12-01,09:00,1,2,two-needle stitch top,31.4,
+T,OP07,2026-12-01,09:00,1,3,two-needle stitch bottom,29.8,
+T,OP07,2026-12-01,09:00,1,4,trim and dispose,4.7,
+T,OP07,2026-12-01,09:00,2,1,pick and align gadget part,5.8,
